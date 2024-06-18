@@ -1,4 +1,4 @@
-###Boas Vindas ao meu perfil 👾
+### Boas Vindas ao meu perfil 👾
 
 Meu nome é Hrlkiiaskok
 
@@ -8,4 +8,11 @@ Meu nome é Hrlkiiaskok
 
 -Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-###Você entrar em contato comigo
+### Você entrar em contato comigo
+
+alurastartestudante@email.com
+
+@alurastartestudante
+
+![](https://media1.tenor.com/m/oCxcur4d32wAAAAC/squidward-spare-change.gif)
+
